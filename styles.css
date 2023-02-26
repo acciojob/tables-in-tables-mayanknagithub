@@ -1,10 +1,20 @@
-table,td{
+table,th,td{
     border: 1px solid black;
+    /* width: 50%; */
+    text-align: center;
+    justify-content: center;
 }
 .box1 {
     height: 250px;
 }
 .box3 {
-    height: 150px;
+    height: 120px;
+}
+.nest-table2{
+    width: 100%;
+}
+.html{
+    background-color: black;
+    color: white;
 }
 
